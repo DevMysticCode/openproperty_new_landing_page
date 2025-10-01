@@ -20,7 +20,7 @@ function App() {
 
             {/* Text content */}
             <div className="order-2 md:order-1 space-y-6 md:space-y-8 text-center md:text-left">
-              <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-light leading-tight tracking-tight mb-4 md:mb-8">
+              <h1 className="text-6xl sm:text-7xl lg:text-8xl xl:text-9xl font-light leading-tight tracking-tight mb-4 md:mb-8">
                 <span className="text-teal-400">New website</span>
                 <br />
                 <span className="text-white">coming soon!</span>
