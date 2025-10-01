@@ -42,14 +42,13 @@ function App() {
             </div>
           </div>
         </div>
+        {/* Powered by Openproperty footer */}
+        <footer className="absolute bottom-10 left-0 right-0 py-4 text-center">
+          <p className="text-gray-400 text-lg">
+            Powered by <span className="text-teal-400">OpenProperty</span>
+          </p>
+        </footer>
       </main>
-
-      {/* Powered by Openproperty footer */}
-      <footer className="absolute bottom-0 left-0 right-0 py-4 text-center">
-        <p className="text-gray-400 text-lg">
-          Powered by <span className="text-teal-400">OpenProperty</span>
-        </p>
-      </footer>
     </div>
   )
 }
