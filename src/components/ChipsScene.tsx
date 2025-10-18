@@ -6,7 +6,7 @@ interface ChipsSceneProps {
 }
 
 const ChipsScene: React.FC<ChipsSceneProps> = ({
-  src = 'https://my.spline.design/chipscopy-wfrQIIIR58pmz9mG9WukgxPE/',
+  src = 'https://my.spline.design/unchained-g9TVCuTR0uUZVQ8eWCi6YZ8y/',
   height = '600px',
 }) => {
   return (
